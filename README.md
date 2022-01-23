@@ -1,2 +1,4 @@
 # Text-to-Morse-Code
 Portfolio
+    • The text Conversion to a Morse code is about getting the equivalent code for each character, symbol, or number entered by the user. This translation could be done using a dictionary format to connect the entered character with its correspondent morse code symbol. The hard part is to form the dictionary, but as well on the internet, you can find a preformatted morse code dictionary.
+    • As an improvement, I will try to make my code simpler and in fewer lines. The important thing that I had learned is that at first from the name of the project it might seem harder to do, but with the right approach, you can do it easily. If I tackle this project again I will try to make it more interactive by applying screen blanking the code instead of just typing the equivalent code to the console.
